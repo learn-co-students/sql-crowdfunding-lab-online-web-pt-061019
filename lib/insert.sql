@@ -22,14 +22,14 @@ INSERT INTO users VALUES (20, "Morris", 75);
 
 --projects
 INSERT INTO projects VALUES (1, "Dragon Dice", "Games", 3000, "March 6, 2019", "September 6, 2019");
-INSERT INTO projects VALUES (2, "Poetry Chapbook", "Books", 5000, "August 18, 2019", "September 18, 2019");
+INSERT INTO projects VALUES (2, "Poetry Chapbook", "books", 5000, "August 18, 2019", "September 18, 2019");
 INSERT INTO projects VALUES (3, "Awesome Board Game", "Games", 10000, "June 28, 2019", "August 15, 2019");
-INSERT INTO projects VALUES (4, "Fancy Drum Kit", "Music", 20000, "September 6, 2019", "October 6, 2019");
+INSERT INTO projects VALUES (4, "Fancy Drum Kit", "music", 20000, "September 6, 2019", "October 6, 2019");
 INSERT INTO projects VALUES (5, "Laptop Charger", "Design & Tech", 15000, "August 20, 2019", "September 20, 2019");
-INSERT INTO projects VALUES (6, "Queer Zine", "Books", 8000, "August 17, 2019", "October 2, 2019");
+INSERT INTO projects VALUES (6, "Queer Zine", "books", 8000, "August 17, 2019", "October 2, 2019");
 INSERT INTO projects VALUES (7, "Prosthetic Fingertips", "Design & Tech", 40000, "March 10, 2019", "September 20, 2019");
-INSERT INTO projects VALUES (8, "Retro Haven EP", "Music", 8800, "July 8, 2019", "August 28, 2019");
-INSERT INTO projects VALUES (9, "Queer Comic", "Books", 4500, "June 10, 2019", "July 10, 2019");
+INSERT INTO projects VALUES (8, "Retro Haven EP", "music", 8800, "July 8, 2019", "August 28, 2019");
+INSERT INTO projects VALUES (9, "Queer Comic", "books", 4500, "June 10, 2019", "July 10, 2019");
 INSERT INTO projects VALUES (10, "Unicorn Dice", "Games", 3000, "April 6, 2019", "October 6, 2019");
 
 --pledges
